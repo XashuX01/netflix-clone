@@ -27,14 +27,6 @@ Netflix-Clone/
 │── README.md
 ```
 
-## Screenshots
-
-(Add screenshots of your project here)
-
-## Contributing
-
-Feel free to fork this project and improve it as you like!
-
 ## License
 
 This project is for educational purposes only and is not affiliated with Netflix.
